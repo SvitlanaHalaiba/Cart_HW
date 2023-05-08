@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cart", "Cart.csproj", "{6C9BE75E-8853-4D47-967E-26AFE8812C56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cart", "Cart.csproj", "{6C9BE75E-8853-4D47-967E-26AFE8812C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartTests", "..\CartTests\CartTests.csproj", "{37B57B79-BEA5-4B37-A042-CEA33B1D07DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CartTests", "..\CartTests\CartTests.csproj", "{37B57B79-BEA5-4B37-A042-CEA33B1D07DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
